@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CV-Site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CV-Site.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CV-Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CV-Site.props",
+      "PackagePath": "build\\CV-Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CV-Site.props",
+      "PackagePath": "buildMultiTargeting\\CV-Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CV-Site.props",
+      "PackagePath": "buildTransitive\\CV-Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
