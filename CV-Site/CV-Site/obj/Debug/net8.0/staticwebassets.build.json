@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "unjjjBGEMlQVwI/641pl8V0RoKgxYhrE4z4mBYHsnNs=",
+  "Hash": "TIsCWfQUDioqbPh+7VX/cstJXldLxRNvhIcMEbIyFXc=",
   "Source": "CV-Site",
   "BasePath": "_content/CV-Site",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "CV-Site\\wwwroot",
+      "Name": "CV-Site/wwwroot",
       "Source": "CV-Site",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CV-Site.styles.css",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/bundle/CV-Site.styles.css",
       "SourceId": "CV-Site",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "CV-Site.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CV-Site.styles.css"
+      "OriginalItemSpec": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/bundle/CV-Site.styles.css"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CV-Site.bundle.scp.css",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/projectbundle/CV-Site.bundle.scp.css",
       "SourceId": "CV-Site",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "CV-Site.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CV-Site.bundle.scp.css"
+      "OriginalItemSpec": "/home/site/CV-Site/CV-Site/CV-Site/obj/Debug/net8.0/scopedcss/projectbundle/CV-Site.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\1.jpg",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/1.jpg",
       "SourceId": "CV-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "1.jpg",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\1.jpg"
+      "OriginalItemSpec": "wwwroot/1.jpg"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\app.css",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/app.css",
       "SourceId": "CV-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
+      "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "CV-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "CV-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\favicon.png",
+      "Identity": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/favicon.png",
       "SourceId": "CV-Site",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\wwwroot\\",
+      "ContentRoot": "/home/site/CV-Site/CV-Site/CV-Site/wwwroot/",
       "BasePath": "_content/CV-Site",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
+      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }

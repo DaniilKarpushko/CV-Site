@@ -17,43 +17,43 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CV-Site
 build_property.RootNamespace = CV-Site
-build_property.ProjectDir = C:\Users\antikill\Desktop\Programming stuff\CV-Site\CV-Site\CV-Site\
+build_property.ProjectDir = /home/site/CV-Site/CV-Site/CV-Site/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\antikill\Desktop\Programming stuff\CV-Site\CV-Site\CV-Site
+build_property.MSBuildProjectDirectory = /home/site/CV-Site/CV-Site/CV-Site
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[/home/site/CV-Site/CV-Site/CV-Site/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Pages/Contact.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0LnJhem9y
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db250YWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Pages/Information.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmZvcm1hdGlvbi5yYXpvcg==
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Pages/Information.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9JbmZvcm1hdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[/home/site/CV-Site/CV-Site/CV-Site/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-k3n99cloyj
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fk9j800pb0
 
-[C:/Users/antikill/Desktop/Programming stuff/CV-Site/CV-Site/CV-Site/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-10gtxtoc6j
+[/home/site/CV-Site/CV-Site/CV-Site/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-01rqz3af6v

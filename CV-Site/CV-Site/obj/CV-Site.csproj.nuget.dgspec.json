@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\CV-Site.csproj": {}
+    "/home/site/CV-Site/CV-Site/CV-Site/CV-Site.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\CV-Site.csproj": {
+    "/home/site/CV-Site/CV-Site/CV-Site/CV-Site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\CV-Site.csproj",
+        "projectUniqueName": "/home/site/CV-Site/CV-Site/CV-Site/CV-Site.csproj",
         "projectName": "CV-Site",
-        "projectPath": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\CV-Site.csproj",
-        "packagesPath": "C:\\Users\\antikill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antikill\\Desktop\\Programming stuff\\CV-Site\\CV-Site\\CV-Site\\obj\\",
+        "projectPath": "/home/site/CV-Site/CV-Site/CV-Site/CV-Site.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/site/CV-Site/CV-Site/CV-Site/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\antikill\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
